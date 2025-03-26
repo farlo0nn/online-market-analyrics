@@ -7,7 +7,7 @@ df = pd.read_csv('retention_result.csv')
 # Create chart
 pivot_table = df.pivot(index='day_number', columns='ads_campaign', values='retention')
 
-# Plot pivot table
+# Plot chart
 plt.figure(figsize=(8, 5))
 for campaign in pivot_table.columns:
     plt.plot(pivot_table.index, pivot_table[campaign], marker='o', label=campaign)
