@@ -1,0 +1,17 @@
+ads_campaign,start_date,day_number,retention
+Campaign № 1,01/09/22,0,1.0
+Campaign № 1,01/09/22,1,0.42
+Campaign № 1,01/09/22,2,0.37
+Campaign № 1,01/09/22,3,0.42
+Campaign № 1,01/09/22,4,0.26
+Campaign № 1,01/09/22,5,0.2
+Campaign № 1,01/09/22,6,0.25
+Campaign № 1,01/09/22,7,0.22
+Campaign № 2,01/09/22,0,1.0
+Campaign № 2,01/09/22,1,0.17
+Campaign № 2,01/09/22,2,0.19
+Campaign № 2,01/09/22,3,0.14
+Campaign № 2,01/09/22,4,0.11
+Campaign № 2,01/09/22,5,0.07
+Campaign № 2,01/09/22,6,0.09
+Campaign № 2,01/09/22,7,0.09
