@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # Load CSV file
 df = pd.read_csv('retention_result.csv')
 
-# Create pivot table
+# Create chart
 pivot_table = df.pivot(index='day_number', columns='ads_campaign', values='retention')
 
 # Plot pivot table
